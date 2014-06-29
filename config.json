@@ -2,6 +2,6 @@
   "data_set" : "bee",
   "category_url" : "",
   "message" : "" ,
-  "script_code" : "bundle",
-  "script_url" : ""
+  "script_code" : "bundle2",
+  "script_url" : "https://raw.githubusercontent.com/dreamiti/MusicPocket/master/parse.lua"
 }
